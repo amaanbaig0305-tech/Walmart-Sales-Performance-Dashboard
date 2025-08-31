@@ -28,7 +28,7 @@ This project is a **Power BI dashboard** analyzing Walmart’s sales performance
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](images/WM-Snip.jpg)
+![Dashboard Screenshot](WM-Snip.jpg)
 
 ---
 
