@@ -5,9 +5,9 @@ This project is a **Power BI dashboard** analyzing Walmart’s sales performance
 ---
 
 ## 🚀 Project Overview
-- **Objective**: To track key performance indicators (KPIs) such as sales, returns, and customer satisfaction to support business decisions.
-- **Tools Used**: Power BI, Excel
-- **Dataset**: Sample dataset (simulated Walmart sales data)
+- **Objective**: Track KPIs such as sales, returns, and customer satisfaction to support business decisions.  
+- **Tools Used**: Power BI, Excel  
+- **Dataset**: Sample dataset (simulated Walmart sales data)  
 
 ---
 
@@ -28,14 +28,7 @@ This project is a **Power BI dashboard** analyzing Walmart’s sales performance
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](images/WMSnip.jpg)
-
----
-
-## 🔧 How to Use
-1. Download the `.pbix` file from this repository.
-2. Open it in **Power BI Desktop**.
-3. Explore the visuals and filters for insights.
+![Dashboard Screenshot](images/WM-Snip.jpg)
 
 ---
 
